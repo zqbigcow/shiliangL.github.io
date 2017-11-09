@@ -3,10 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Coding like A great god
-subtitle:
+title: wo Ho Ho~~~~
+subtitle:  
+
 description:
-author: Shiliangl
+author: ShiliangL
 language:
 timezone:
 
@@ -78,5 +79,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:shiliangL/shiliangL.github.io.git
-  branch: develop
+  repo: https://github.com/shiliangL/shiliangL.github.io
+  branch: master
