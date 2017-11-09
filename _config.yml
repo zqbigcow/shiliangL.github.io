@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 捏泥巴的人
+title: 捏泥巴的小人
 subtitle:  
 
 description:
 author: ShiliangL
-language:
+language: zh-CN
 timezone:
 
 # URL
@@ -73,7 +73,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+# theme: landscape
+theme: material
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
